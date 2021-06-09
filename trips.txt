@@ -1,0 +1,24 @@
+previous trip
+bus:skywaysbus
+route:Islamabad-Karachi
+price:3500Rs8AM-8AM
+seats:[3]previous trip
+
+bus:Reddecker
+busroute:Islamabad-multan
+price:3000Rs
+8AM-6PM
+seat's number:[8]previous trip
+
+bus:Express ways
+busroute:Islamabad-multan
+price:3500Rs
+8AM-6PM
+seat's number:[8, 2]previous trip
+
+bus:sanumways
+busroute:Islamabad-bahawalpur
+price:2500Rs
+8AM-5PM
+seats:[2]previous trip
+
